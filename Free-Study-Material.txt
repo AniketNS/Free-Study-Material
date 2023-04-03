@@ -10,7 +10,7 @@ https://javascript30.com/
 Linux command challenge :
 https://cmdchallenge.com/
 ----------------------------------------------------------------------------------------------------------------------
-Small projects of Replit :
+Big bounties projects of Replit :
 https://replit.com/bounties
 ----------------------------------------------------------------------------------------------------------------------
 React Full Course in One Video:
